@@ -9,9 +9,9 @@ This project is a bikeshare project that looks at bike sharing details for 3 cit
 
 ### Files used
 bikeshare_2.py
-chicago.csv
-new_york_city.csv
-washington.csv
+chicago.csv - not included
+new_york_city.csv - not included
+washington.csv - not included
 
 ### Credits
 Learning as part of the Udacity nanodegree program https://www.udacity.com/
