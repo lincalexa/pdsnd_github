@@ -5,7 +5,7 @@ April 27, 2020
 Bike Share Data Analysis
 
 ### Description
-This project is a bikeshare project that looks at bike sharing details for 3 cities.
+This project is a bikeshare project that looks at bike sharing details for 3 cities.  Created to look at bike sharing data as part of a python learning program.
 
 ### Files used
 bikeshare_2.py
