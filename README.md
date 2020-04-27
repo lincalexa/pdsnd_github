@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+April 27, 2020
 
 ### Project Title
-Replace the Project Title
+Bike Share Data Analysis
 
 ### Description
 This project is a bikeshare project that looks at bike sharing details for 3 cities.
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Learning as part of the Udacity nanodegree program https://www.udacity.com/
 
