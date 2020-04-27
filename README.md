@@ -15,4 +15,5 @@ washington.csv - not included
 
 ### Credits
 Learning as part of the Udacity nanodegree program https://www.udacity.com/
+Student: Lincoln Alexander
 
