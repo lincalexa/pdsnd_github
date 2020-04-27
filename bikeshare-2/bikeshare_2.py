@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+# adding a comment to store on the refactoring branch
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -17,12 +19,15 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    # hard code values as the real project is elsewhere
+    city = 'chicago'
 
     # get user input for month (all, january, february, ... , june)
+    month = 'all'
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
+    day - 'all'
 
 
     print('-'*40)
